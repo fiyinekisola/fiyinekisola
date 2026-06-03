@@ -12,6 +12,6 @@
 
 ###
 
-<p>👋 Yooo! I'm Fiyin, currently studying CS at Yarm SChool. I made dozens of projects that come out *eventually*.</p>
+<p>👋 Yooo! I'm Fiyin, currently studying CS at Yarm School. I made dozens of projects that come out *eventually*.</p>
 <p>Hit me up if you need help with something :)</p>
 
