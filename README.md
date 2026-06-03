@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">sourcelocation</h1>
 
-<!--
-**fiyinekisola/fiyinekisola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="35" src="https://github.com/sourcelocation/sourcelocation/blob/main/%E2%80%9D.png?raw=true"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="center">"feat: <something>"<br>"fix: I made a big mistake"<br>"fix: HOW TO UNDO THIS"<br>"ci: halt halt halt"<br>"BREAKING CHANGE: nuke project"<br><br>— 𝘴𝘰𝘶𝘳𝘤𝘦𝘭𝘰𝘤𝘢𝘵𝘪𝘰𝘯</p>
+
+###
+
+<p>👋 Yooo! I'm Fiyin, currently studying CS at Yarm SChool. I made dozens of projects that come out *eventually*.</p>
+<p>Hit me up if you need help with something :)</p>
+
