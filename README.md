@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">"feat: <something>"<br>"fix: I made a big mistake"<br>"fix: HOW TO UNDO THIS"<br>"ci: halt halt halt"<br>"BREAKING CHANGE: nuke project"<br><br>— 𝘴𝘰𝘶𝘳𝘤𝘦𝘭𝘰𝘤𝘢𝘵𝘪𝘰𝘯</p>
+<p align="center">"feat: <something>"<br>"fix: I made a big mistake"<br>"fix: HOW TO UNDO THIS"<br>"ci: halt halt halt"<br>"BREAKING CHANGE: nuke project"<br><br>— fiyinekisola</p>
 
 ###
 
