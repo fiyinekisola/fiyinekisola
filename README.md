@@ -14,6 +14,6 @@
 
 <p>👋 Yooo! I'm Fiyin, currently studying CS at Yarm School. I make loads of random projects that come out *eventually*.</p>
 
-<p>My latest one is [a youtube simulator that can be found here.](https://github.com/fiyinekisola/yt-simulator)<p>
+My latest one is [a youtube simulator that can be found here.](https://github.com/fiyinekisola/yt-simulator)
 <p>Hit me up if you need help with something :)</p>
 
