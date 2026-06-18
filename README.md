@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">"there's an error in the code"<something>"<br>"fix: I made a big mistake"<br>"CHATGPT HOW TO UNDO THIS"<br>"bro the repo is legit broken"<br>"NEW UPDATE: nuke project"<br><br>— fiyinekisola</p>
+<p align="center">"there's an error in the code<something>"<br>"fix: I made a big mistake"<br>"CHATGPT HOW TO UNDO THIS"<br>"bro the repo is legit broken"<br>"NEW UPDATE: nuke project"<br><br>— fiyinekisola</p>
 
 ###
 
