@@ -14,7 +14,7 @@
 
 <p>👋 Yooo! I'm Fiyin, currently studying CS at Yarm School. I make loads of random projects that come out *eventually*.</p>
 
-I have a bigger project that I'm working on right now though, it's called FlashFlow. You can find it [here](https://github.com/fiyinekisola/FlashFlow/) or on the [website.](https://flashflowstudy.com)
+I have a bigger project that I'm working on right now though, it's called FlashFlow. You can find it [here](https://github.com/FlashFlow-Study/FlashFlow/) or on the [website.](https://flashflowstudy.com)
 
 <p>Hit me up if you need help with something :)</p>
 
